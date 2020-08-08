@@ -4,9 +4,6 @@ namespace GitDemos
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World! testing");
-        }
+        static void Main(string[] args) => Console.WriteLine("Hello World! testing");
     }
 }
